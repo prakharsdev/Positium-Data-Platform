@@ -1,0 +1,19 @@
+# Core data tools
+pandas
+geopandas
+pyarrow
+shapely
+matplotlib
+seaborn
+geoalchemy2
+flask
+# S3 access
+boto3
+requests
+
+# PostgreSQL & PostGIS integration
+sqlalchemy
+psycopg2-binary
+
+# Environment variable handling
+python-dotenv
