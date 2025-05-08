@@ -18,6 +18,10 @@ This system is modular, scalable, and production-ready.
 ## Full Project WAlkthrough: 
 [![Demo Video](https://github.com/user-attachments/assets/b2da5d0d-42b2-439e-ac9f-ae6f45151222)](https://youtu.be/JWLG7-HLKhs)
 
+---
+## Jupyter Notebook: 
+https://github.com/prakharsdev/Positium-Data-Platform/blob/master/notebooks/analysis.ipynb
+---
 
 ##  Tech Stack
 
@@ -28,7 +32,8 @@ This system is modular, scalable, and production-ready.
 * **Docker Compose** - container orchestration
 * **Flask** - REST API to serve queries
 * **Jupyter Notebooks** - for geospatial and temporal visualizations & and data analysis
-
+NB!
+* **.env** - The .env file is included in this repository solely to streamline the assignment workflow and facilitate seamless setup. In a real-world production environment, environment files containing sensitive information are never committed to version control and are instead managed securely.
 ---
 ## Design Decisions
 
