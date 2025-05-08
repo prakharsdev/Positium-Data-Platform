@@ -15,6 +15,8 @@ The project ingests raw mobile event and cell plan data, processes them using Sp
 This system is modular, scalable, and production-ready.
 
 ---
+Full Project WAlkthrough: https://youtu.be/JWLG7-HLKhs
+
 
 ##  Tech Stack
 
